@@ -1,1 +1,1 @@
-Website to display my interests and experience. Hosted using firebase.
+Website to display my interests and experience. Styled with boostrap and hosted using firebase.
